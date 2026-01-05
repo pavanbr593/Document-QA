@@ -1,5 +1,5 @@
 # Document-QA
-# 📄 Document Intelligence Platform (RAG)
+# Document Intelligence Platform (RAG)
 
 A full-stack **Document Question Answering System** built using **Retrieval-Augmented Generation (RAG)**.  
 This application allows users to upload PDF documents and ask natural-language questions, returning **accurate, citation-grounded answers** using a **local Large Language Model (LLM)**.
@@ -8,7 +8,7 @@ The system runs **fully locally**, ensuring **privacy, low latency, and zero dep
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 -  Upload and process PDF documents
 -  Intelligent text chunking with overlap
@@ -20,7 +20,7 @@ The system runs **fully locally**, ensuring **privacy, low latency, and zero dep
 
 ---
 
-##  Why This Matters
+## Why This Matters
 
 - Demonstrates **end-to-end RAG system design**
 - Uses **local LLMs** (no OpenAI / cloud dependency)
