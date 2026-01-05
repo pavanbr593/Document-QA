@@ -18,6 +18,20 @@ The system runs **fully locally**, ensuring **privacy, low latency, and zero dep
 -  Modern, professional Streamlit UI
 -  Fully local & offline (no OpenAI / cloud APIs)
 
+---
+
+##  Why This Matters
+
+- Demonstrates **end-to-end RAG system design**
+- Uses **local LLMs** (no OpenAI / cloud dependency)
+- Prevents hallucination via retrieval grounding
+- Shows real understanding of:
+  - vector databases
+  - embeddings
+  - LLM orchestration
+  - backend + UI integration
+  
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -25,3 +39,7 @@ The system runs **fully locally**, ensuring **privacy, low latency, and zero dep
 ```bash
 git clone https://github.com/pavanbr593/Document-QA.git
 cd Document-QA
+
+
+
+
