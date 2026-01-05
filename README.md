@@ -32,14 +32,5 @@ The system runs **fully locally**, ensuring **privacy, low latency, and zero dep
   - backend + UI integration
   
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/pavanbr593/Document-QA.git
-cd Document-QA
-
-
 
 
